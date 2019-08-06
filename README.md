@@ -8,9 +8,12 @@ We have to go in to the file structure of xcode instlasion and add it to the cor
 
  -> Download Repo. <br/>
  -> Add File 'MVCR.xctemplate' to the place shown below (this could change on different xcodes verions) <br/>
- ![Alt text](https://i.ibb.co/26btNNk/Screenshot-2019-08-05-at-12-23-32.png)
+ ![Alt text](https://i.ibb.co/26btNNk/Screenshot-2019-08-05-at-12-23-32.png) <br/>
  -> now when you open xcode and add new file, you can see this <br/>
- -> ![Alt text]( https://i.ibb.co/8NQ58jP/Screenshot-2019-08-05-at-12-26-37.png)
+  ![Alt text]( https://i.ibb.co/8NQ58jP/Screenshot-2019-08-05-at-12-26-37.png) <br/>
+
+Place to put file , form image shown above : <br/>
+Xcode -> Contents -> Developer -> Platforms -> iPhoneOS platforms -> Developer -> Library -> Xcode -> templates -> File Templates -> user interface -> put your file
 
 ## How to customisable: 
 
